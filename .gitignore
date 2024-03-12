@@ -1,5 +1,5 @@
 .bdep/
-
+**.DS_Store
 # Local default options files.
 #
 .build2/local/

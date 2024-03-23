@@ -1,0 +1,8 @@
+Package: boost-tuple
+Version: 1.84.0
+Depends: boost-config, boost-core, boost-static-assert, boost-type-traits, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 2681c6a698b4e78e8e70d62c58ff03de67d3f1cfb42a8ccc49f1a88b05e53c5f
+Description: Boost tuple module
+Status: install ok half-installed

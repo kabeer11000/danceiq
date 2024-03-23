@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.0)
+project(danceiq)
+
+# Add your source files
+add_executable(danceiq source/index.cpp)
+
+
+find_package(fmt CONFIG REQUIRED)
+
+
+target_link_libraries(danceiq PRIVATE fmt::fmt)
+
+
+# Optionally, set C++ standard and other compiler options
+set(CMAKE_CXX_STANDARD 20)

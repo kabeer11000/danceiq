@@ -1,0 +1,264 @@
+Detecting compiler hash for triplet x64-osx...
+Compiler found: /Library/Developer/CommandLineTools/usr/bin/c++
+The following packages will be built and installed:
+  * asio:x64-osx@1.29.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/9e307fe0a4e0e82f761ef6b6b15dc34f847fae6d
+  * boost-algorithm:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/1649f898d6dd9c8904fab6a7c1194a5c30bdb274
+  * boost-align:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/676ef901af2b5986c71fb85788ba0a08979bad8e
+  * boost-array:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/7feefc063119142cc2eaedfc11255fdfdaa2025a
+  * boost-asio:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/7a9e250345837a2083dea856b1f4c74c4d664226
+  * boost-assert:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/fe832ada2e45a096248738b11897f54498df72e2
+  * boost-bind:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/5c28cd6fd3a92cac6eda977ec133bf611665c7c4
+  * boost-build:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/b23026b68d2bb711b73afd419b917a67f98677ad
+  * boost-concept-check:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/f1658ec6a2ab024a4d4c741ee471c0db4344238b
+  * boost-config:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/30ccc94aba0f43bf905a641c39e3cb991e882d30
+  * boost-container:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/ee15da00e28be69db05ea8b29e19b6a6fc6ca132
+  * boost-container-hash:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/72beb1a98959147c41efd1661e10c37827313511
+  * boost-context:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/2c3c5db88cb7118fcde973914702e885cf53005d
+  * boost-conversion:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/e3b83a29a2979a917316fece1572314a0e7b2c81
+  * boost-core:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/9092a51e0f86979692442d98202d839240721e6d
+  * boost-coroutine:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/b6c89a5afa462111f3180af3c843fbc11ed3fd63
+  * boost-date-time:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/7946ff22e340ee7a7933de620506a49f0c02e14d
+  * boost-describe:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/c6782cbba94dda30916f801d4b68160f7b6063fe
+  * boost-detail:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/cd5519c5cf4815126782e82cafcce472281ced51
+  * boost-exception:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/97298e7547c5c7b015c8a55f46428f50fb53753f
+  * boost-function:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/8c317e18c45ba2eac464e2f8e1e179356183c063
+  * boost-function-types:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/ae386f84f582456bae7c4f304930bad8cb3c3a43
+  * boost-functional:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/76acd323a71cab65354fd244a1b6cd5d38950b8c
+  * boost-fusion:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/108d3dffaa34eb6e0102031318f6f81dd4e6af18
+  * boost-integer:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/ebfef65ee52f5566976920e3cac7f451f66c7ced
+  * boost-intrusive:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/b5f197c773d23bb868ae6ccce4c28dc0b97997ac
+  * boost-io:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/dca15cab49b7b33ab58762315d107336d28b404e
+  * boost-iterator:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/0d18698f7abe635814d1a4887b5b94157c5fe2b0
+  * boost-lexical-cast:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/270740ecb9a0bf6d8536fa654ef862fdfd706ad5
+  * boost-modular-build-helper:x64-osx@1.84.0#3 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/04390ecd44200648eb89147cb4e11b196d2dc515
+  * boost-move:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/1159c6a1d6b15517994acbd64c0407ce57161723
+  * boost-mp11:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/a26261cdb9cc5232b748066ee61799564c3d3be2
+  * boost-mpl:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/48ec467749d6a874076f755bf8d5a131381b5c82
+  * boost-numeric-conversion:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/2c04732bf0a8b5a4025226e584091e3998e1b224
+  * boost-optional:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/48bb7c9174d9321f4b41f787edc318581972437c
+  * boost-pool:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/359af8d863109dc52bf2a7f7de75bfc5cc912b6b
+  * boost-predef:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/087c63189a60b36df9891096809a9cd3393c914f
+  * boost-preprocessor:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/87a9dcc2d893cb4b0463fc054b761dd2fb446df4
+  * boost-range:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/2c03982fc0e52976188f003f72055cac0e3b0295
+  * boost-regex:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/79565c2c7713679611f25b158373a1063de42fb3
+  * boost-smart-ptr:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/4d235b9c9f410296263cf6d1cbf598befae87dc0
+  * boost-static-assert:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/c79455c647747893ea950dedb858fad16d0819c3
+  * boost-system:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/c87d6964da1b27c95fc19c5ddd44c2f20ba4524a
+  * boost-throw-exception:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/f3c85344985a864fb5d2245f788197ad3c727ff4
+  * boost-tokenizer:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/f813c482e33e213480b75d69780c4d795769e581
+  * boost-tuple:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/226ff3eec30fe4b68902e7bb3f36db6dc580faf6
+  * boost-type-traits:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/a4ddf58a08ee20266007e39a261fc556b5b6e0ce
+  * boost-typeof:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/f5a00c4b05c0b35835446dd44ff7777fae86fe52
+  * boost-uninstall:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/6ed88ee3e093c9419fb4fcbdc17904d15d377129
+  * boost-unordered:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/77a20edb9c6e3efec862eb37310f410a95544a30
+  * boost-utility:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/0ea45d787be2fc247a434638a832b85acd3c5e3b
+  * boost-variant2:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/90849fda39c8a2201b80eac6b04dc32ab6ae2c73
+  * boost-vcpkg-helpers:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/5ec9b3e713c09e2827e07c9784676bad6cc9cc08
+  * boost-winapi:x64-osx@1.84.0 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/32f9d89e087c4a777e62688c75a643608e3f9f6e
+  * openssl:x64-osx@3.2.1#1 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/3dc6df970a3aff9c977032299e481fd9872e0970
+  * rapidjson:x64-osx@2023-07-17#1 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/a3dfe7dca3a1a27564b1fc5a9aea657cd9dae01c
+    socket-io-client:x64-osx@2023-11-11 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/2cb320ec7ddd2f7ec85d78172dae5904564b5e04
+  * vcpkg-cmake-get-vars:x64-osx@2023-12-31 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/725c841810ceb8de33da68ea879eb8f0b4d6c94c
+  * websocketpp[core,recommended]:x64-osx@0.8.2#3 -- /Users/asadrizvi/.cache/vcpkg/registries/git-trees/eb46cff6f9a23caefbc56ac8089d1fbee523e13e
+Additional packages (*) will be modified to complete this operation.
+Restored 59 package(s) from /Users/asadrizvi/.cache/vcpkg/archives in 2.6 s. Use --debug to see more details.
+Installing 1/59 vcpkg-cmake-get-vars:x64-osx@2023-12-31...
+Elapsed time to handle vcpkg-cmake-get-vars:x64-osx: 8.02 ms
+vcpkg-cmake-get-vars:x64-osx package ABI: 93b971242fd8e2c1d5ad60261a64044ec2115c598ea07e3bbd138c96f37a629b
+Installing 2/59 openssl:x64-osx@3.2.1#1...
+Elapsed time to handle openssl:x64-osx: 131 ms
+openssl:x64-osx package ABI: 620a237e49ad20f622a10033486ea09fef1704b6d756434b74b706f5b662dea9
+Installing 3/59 boost-uninstall:x64-osx@1.84.0...
+Elapsed time to handle boost-uninstall:x64-osx: 4.96 ms
+boost-uninstall:x64-osx package ABI: 16460b8f5523918da8953ee6095c5c2929780971ed5b00f0c01960a071ffd247
+Installing 4/59 boost-vcpkg-helpers:x64-osx@1.84.0...
+Elapsed time to handle boost-vcpkg-helpers:x64-osx: 11.3 ms
+boost-vcpkg-helpers:x64-osx package ABI: fd9f62ac3f1d352cbcaeb8510f3a40cf0ed0c567dc350fbf46c6f98851587252
+Installing 5/59 boost-config:x64-osx@1.84.0...
+Elapsed time to handle boost-config:x64-osx: 194 ms
+boost-config:x64-osx package ABI: 5f880ff132dc9bb8568898be0ce41952c7729fcbcbb986a9bd6b654f19b7c40c
+Installing 6/59 boost-assert:x64-osx@1.84.0...
+Elapsed time to handle boost-assert:x64-osx: 13.3 ms
+boost-assert:x64-osx package ABI: d0113cd9d9e2142f888ae31c8496d91f92796da831647b1ef8238f7598c70a4b
+Installing 7/59 boost-throw-exception:x64-osx@1.84.0...
+Elapsed time to handle boost-throw-exception:x64-osx: 17.5 ms
+boost-throw-exception:x64-osx package ABI: 44551407b3d9cfe07b349bcc717f708c77aee5b519a21884fbae6ab08f4bac6a
+Installing 8/59 boost-predef:x64-osx@1.84.0...
+Elapsed time to handle boost-predef:x64-osx: 132 ms
+boost-predef:x64-osx package ABI: ff59b9ed19a696e916b58876ea806c5c03c74cc85173bb6f5d77fa91b639bc1b
+Installing 9/59 boost-winapi:x64-osx@1.84.0...
+Elapsed time to handle boost-winapi:x64-osx: 87.8 ms
+boost-winapi:x64-osx package ABI: 0fb4008bc5c81ce07753618d2e4819495fce97fb8cf686b07d9d59c4b9bebd0c
+Installing 10/59 boost-mp11:x64-osx@1.84.0...
+Elapsed time to handle boost-mp11:x64-osx: 34.5 ms
+boost-mp11:x64-osx package ABI: 683bd80f29432d35994459cbe0b5e0370ad3b38a728dea1c68d348407f197055
+Installing 11/59 boost-variant2:x64-osx@1.84.0...
+Elapsed time to handle boost-variant2:x64-osx: 13.4 ms
+boost-variant2:x64-osx package ABI: 6f870df0c75e4be60b1dc10807313e2bd8897b006537dad49e9d9db75e1bf309
+Installing 12/59 boost-modular-build-helper:x64-osx@1.84.0#3...
+Elapsed time to handle boost-modular-build-helper:x64-osx: 15.3 ms
+boost-modular-build-helper:x64-osx package ABI: 2d4c99454a27a60b3a461b9a4760c55a01d5d0a72547d140e34e9f32147cfda9
+Installing 13/59 boost-build:x64-osx@1.84.0...
+Elapsed time to handle boost-build:x64-osx: 774 ms
+boost-build:x64-osx package ABI: 4ddf64b41c7d95f3f7a3217daee588b3a0de1c0254655b3de90834bd2bb2a5c8
+Installing 14/59 boost-system:x64-osx@1.84.0...
+Elapsed time to handle boost-system:x64-osx: 43.6 ms
+boost-system:x64-osx package ABI: ee8e0a8632ba11bda368bda03cb72f21e0b29ce393d6febd475975aba871c77f
+Installing 15/59 boost-static-assert:x64-osx@1.84.0...
+Elapsed time to handle boost-static-assert:x64-osx: 9.79 ms
+boost-static-assert:x64-osx package ABI: 6a6dc0aa78516dfb989884036387b091f300eb29e5ee315f5eece1a605928ee0
+Installing 16/59 boost-type-traits:x64-osx@1.84.0...
+Elapsed time to handle boost-type-traits:x64-osx: 284 ms
+boost-type-traits:x64-osx package ABI: cc2c3e81bb4d03d1444f5d5514003d8c68510490299b5301f4188f03f7b912e5
+Installing 17/59 boost-preprocessor:x64-osx@1.84.0...
+Elapsed time to handle boost-preprocessor:x64-osx: 335 ms
+boost-preprocessor:x64-osx package ABI: 52327df2b9a3c7413a6c11d579d152b2418412f0c7d6a74f9d0e71a393b95488
+Installing 18/59 boost-io:x64-osx@1.84.0...
+Elapsed time to handle boost-io:x64-osx: 22.4 ms
+boost-io:x64-osx package ABI: 8ae1e6d0c7671fbe9f214ca1605eee55f6288c3f0abdbac2e567d5dc9b077ee6
+Installing 19/59 boost-core:x64-osx@1.84.0...
+Elapsed time to handle boost-core:x64-osx: 67 ms
+boost-core:x64-osx package ABI: 18f984211bb9a8cf3fce1cd5c9efe96d80059a9413f37f5ecbec3d25d96e7d61
+Installing 20/59 boost-utility:x64-osx@1.84.0...
+Elapsed time to handle boost-utility:x64-osx: 42.3 ms
+boost-utility:x64-osx package ABI: 31aeb267718d5c92fe66bb63c61b18f724a475e28633c3b9504c9b1f8bdc7bdc
+Installing 21/59 boost-move:x64-osx@1.84.0...
+Elapsed time to handle boost-move:x64-osx: 71.5 ms
+boost-move:x64-osx package ABI: 179e17c4ee10b41d7c4a1420ee7746e60233598dd682697d2f19ae3004d6736a
+Installing 22/59 boost-smart-ptr:x64-osx@1.84.0...
+Elapsed time to handle boost-smart-ptr:x64-osx: 140 ms
+boost-smart-ptr:x64-osx package ABI: 1b491820492b6556f6786df82051f46c06036281185a7efddc854c1ca8c9194f
+Installing 23/59 boost-detail:x64-osx@1.84.0...
+Elapsed time to handle boost-detail:x64-osx: 39.1 ms
+boost-detail:x64-osx package ABI: 0e03c2e70b719d0d2fe38a22abe095c2eef21e152bc6dfe8e80db2af2f646c5a
+Installing 24/59 boost-optional:x64-osx@1.84.0...
+Elapsed time to handle boost-optional:x64-osx: 40.1 ms
+boost-optional:x64-osx package ABI: 1f5f7813745bec55b5a68638bf9767b7eb807845eb9b7ddd7895fbd3e460098d
+Installing 25/59 boost-mpl:x64-osx@1.84.0...
+Elapsed time to handle boost-mpl:x64-osx: 878 ms
+boost-mpl:x64-osx package ABI: 0c6f913029e07c600fa29adf3fff220e621a4b671d524a013955229a92b7598d
+Installing 26/59 boost-typeof:x64-osx@1.84.0...
+Elapsed time to handle boost-typeof:x64-osx: 34.6 ms
+boost-typeof:x64-osx package ABI: e61dafc0dd978be857692cbd6dfb6ed92e1479392dae4b860bc884ca69f03a3a
+Installing 27/59 boost-tuple:x64-osx@1.84.0...
+Elapsed time to handle boost-tuple:x64-osx: 14.2 ms
+boost-tuple:x64-osx package ABI: 2681c6a698b4e78e8e70d62c58ff03de67d3f1cfb42a8ccc49f1a88b05e53c5f
+Installing 28/59 boost-function-types:x64-osx@1.84.0...
+Elapsed time to handle boost-function-types:x64-osx: 72.3 ms
+boost-function-types:x64-osx package ABI: ae359b9f49a304e6ad43c236a042454e653710ee4ce4aee070a6369118348ab8
+Installing 29/59 boost-bind:x64-osx@1.84.0...
+Elapsed time to handle boost-bind:x64-osx: 23.8 ms
+boost-bind:x64-osx package ABI: 677e8741c84f9544aef128dd8272ff10a856981422355373bbf0d91541b17aa7
+Installing 30/59 boost-function:x64-osx@1.84.0...
+Elapsed time to handle boost-function:x64-osx: 31.4 ms
+boost-function:x64-osx package ABI: a14bba9f819f63036289046cab7fed66c94143b6eaf007d9463d97861bcf3942
+Installing 31/59 boost-functional:x64-osx@1.84.0...
+Elapsed time to handle boost-functional:x64-osx: 21.6 ms
+boost-functional:x64-osx package ABI: d22dbd7d453f48348e7604ad9d460add4c305aa26a07e4ad1e69589d95737bfe
+Installing 32/59 boost-describe:x64-osx@1.84.0...
+Elapsed time to handle boost-describe:x64-osx: 35.2 ms
+boost-describe:x64-osx package ABI: 63c9d0a50856fb45336e0adc494f4b15a87ad7894a41b4c8e00c52fa9bdcbde2
+Installing 33/59 boost-container-hash:x64-osx@1.84.0...
+Elapsed time to handle boost-container-hash:x64-osx: 36.8 ms
+boost-container-hash:x64-osx package ABI: de33f51a6ca11de8deab4a791b2df4e3d7c48c45755535ca0fc96294a05b59a7
+Installing 34/59 boost-fusion:x64-osx@1.84.0...
+Elapsed time to handle boost-fusion:x64-osx: 1.2 s
+boost-fusion:x64-osx package ABI: b493adacb5d63661d3bc5018d60ff10dacc7d26696d17c8d78cb05f4145dcb0f
+Installing 35/59 boost-concept-check:x64-osx@1.84.0...
+Elapsed time to handle boost-concept-check:x64-osx: 27.9 ms
+boost-concept-check:x64-osx package ABI: 8864e0e1b205bab16b11d0f7f2d6e452fe089f6014d0b3e8ebc666351fbbcbc7
+Installing 36/59 boost-iterator:x64-osx@1.84.0...
+Elapsed time to handle boost-iterator:x64-osx: 47.6 ms
+boost-iterator:x64-osx package ABI: a70cf4123e8d68e1e3f698a11d13833f827121e3d6054e5c7ef103a850986d37
+Installing 37/59 boost-tokenizer:x64-osx@1.84.0...
+Elapsed time to handle boost-tokenizer:x64-osx: 18.2 ms
+boost-tokenizer:x64-osx package ABI: 0dfd16cd49cb6080a555215e4eef7315f442b17a80e2319ac08c5719e9e36e1f
+Installing 38/59 boost-integer:x64-osx@1.84.0...
+Elapsed time to handle boost-integer:x64-osx: 99.6 ms
+boost-integer:x64-osx package ABI: 3cb4e3f725d48679e944663251798482a7a3f45c9679571be7ca8e080ad1cf04
+Installing 39/59 boost-regex:x64-osx@1.84.0...
+Elapsed time to handle boost-regex:x64-osx: 221 ms
+boost-regex:x64-osx package ABI: 4fc633339acc2eacbc6bab81f9a35d7b34c44180b9b5164ee297a8b84bc24047
+Installing 40/59 boost-conversion:x64-osx@1.84.0...
+Elapsed time to handle boost-conversion:x64-osx: 23 ms
+boost-conversion:x64-osx package ABI: 5be8c885fe3db5e139fd1bf1c753d0b9929f696b5c15f5ec9021dc5b460e37db
+Installing 41/59 boost-array:x64-osx@1.84.0...
+Elapsed time to handle boost-array:x64-osx: 20.3 ms
+boost-array:x64-osx package ABI: 1c64e8f42e825c45ac56b42ef712e0cb5675fea3542e3c64a3f01ca2049ea7ec
+Installing 42/59 boost-range:x64-osx@1.84.0...
+Elapsed time to handle boost-range:x64-osx: 154 ms
+boost-range:x64-osx package ABI: a4dbea6186238ac9d0644349411739ca0221c39bf4095cf81f15739776116943
+Installing 43/59 boost-numeric-conversion:x64-osx@1.84.0...
+Elapsed time to handle boost-numeric-conversion:x64-osx: 36.2 ms
+boost-numeric-conversion:x64-osx package ABI: 41c9153aa9b4fd9577a522b61c481f43ec4037e7f7222518bf8b2183efdecfc4
+Installing 44/59 boost-intrusive:x64-osx@1.84.0...
+Elapsed time to handle boost-intrusive:x64-osx: 103 ms
+boost-intrusive:x64-osx package ABI: 06f568cddf586fa8330543bbf6562ac66caea7810f7e595ebde41e17412192ec
+Installing 45/59 boost-container:x64-osx@1.84.0...
+Elapsed time to handle boost-container:x64-osx: 170 ms
+boost-container:x64-osx package ABI: 6d037abd28199f0c164a4310ddf97d59325c33ec8e69c1194a81a1a1a3a31346
+Installing 46/59 boost-lexical-cast:x64-osx@1.84.0...
+Elapsed time to handle boost-lexical-cast:x64-osx: 45.1 ms
+boost-lexical-cast:x64-osx package ABI: a80d0764f1c20482f7c09c49b5c0fc81201e162b33565af71fbcc6af72cacf1a
+Installing 47/59 boost-unordered:x64-osx@1.84.0...
+Elapsed time to handle boost-unordered:x64-osx: 57.1 ms
+boost-unordered:x64-osx package ABI: 7dae91901a33140029587a05f206d31bf5eb993cfbfe7d1f68717272aca79213
+Installing 48/59 boost-exception:x64-osx@1.84.0...
+Elapsed time to handle boost-exception:x64-osx: 39 ms
+boost-exception:x64-osx package ABI: 3c2ab570e78c76ba1bb82175223dcf891a50f67e028a5766f37a08a5f20666ec
+Installing 49/59 boost-algorithm:x64-osx@1.84.0...
+Elapsed time to handle boost-algorithm:x64-osx: 85.8 ms
+boost-algorithm:x64-osx package ABI: 27d5444e91105e818d4a7b684e70be939a5c90f79fc3470201ef0f98da59d675
+Installing 50/59 boost-date-time:x64-osx@1.84.0...
+Elapsed time to handle boost-date-time:x64-osx: 124 ms
+boost-date-time:x64-osx package ABI: 9166effd57a687dd581f43c8e9693e8353510b0cb4d652fec2791c66c88ece56
+Installing 51/59 boost-pool:x64-osx@1.84.0...
+Elapsed time to handle boost-pool:x64-osx: 38.1 ms
+boost-pool:x64-osx package ABI: f5545dd89d2974e14c560742071c00cd7e5c3267449b8632b327c0d81bdbc556
+Installing 52/59 boost-context:x64-osx@1.84.0...
+Elapsed time to handle boost-context:x64-osx: 50.6 ms
+boost-context:x64-osx package ABI: 7b9492037592590bf9225aec76421048fa51827ab0302e52c7f56c001369dc9f
+Installing 53/59 boost-coroutine:x64-osx@1.84.0...
+Elapsed time to handle boost-coroutine:x64-osx: 56.7 ms
+boost-coroutine:x64-osx package ABI: f44639b929d1f83c94bba6204953e51f46f5a90cf5c05f14321dbc13f6c5b6d8
+Installing 54/59 boost-align:x64-osx@1.84.0...
+Elapsed time to handle boost-align:x64-osx: 55 ms
+boost-align:x64-osx package ABI: 52ed33c45c19ac3c3be905b085203bb709e5f198c00428c46d1173b77bc1e6ed
+Installing 55/59 boost-asio:x64-osx@1.84.0...
+Elapsed time to handle boost-asio:x64-osx: 514 ms
+boost-asio:x64-osx package ABI: 752ae6d2bc80963ff3e2e98bb0dc7d14e275e12bb2f3fcad0c309b5d48785a10
+Installing 56/59 websocketpp[core,recommended]:x64-osx@0.8.2#3...
+Elapsed time to handle websocketpp:x64-osx: 92.4 ms
+websocketpp:x64-osx package ABI: c20e96afe322941df9f3f09d2b737026a282839b58ea90066ae3c27e14b121ab
+Installing 57/59 rapidjson:x64-osx@2023-07-17#1...
+Elapsed time to handle rapidjson:x64-osx: 47 ms
+rapidjson:x64-osx package ABI: b5aae7d9700afdc6e7c9fe79c7bd5c7f9eca2b4b137c2f06807aca5b54dd7dad
+Installing 58/59 asio:x64-osx@1.29.0...
+Elapsed time to handle asio:x64-osx: 1.1 s
+asio:x64-osx package ABI: 28f122d55fba9e6c11a7bec4d9f78f51e3269f4c5982349a9d4fae6659186c13
+Installing 59/59 socket-io-client:x64-osx@2023-11-11...
+Elapsed time to handle socket-io-client:x64-osx: 36.5 ms
+socket-io-client:x64-osx package ABI: b109b0b2baf6036badff1367b0d58d3c971ffe1f8cf1f162a3727deefa5fc146
+Total install time: 8.1 s
+The package fmt provides CMake targets:
+
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt)
+
+    # Or use the header-only version
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt-header-only)
+
+opencv provides CMake targets:
+
+  # this is heuristically generated, and may not be correct
+  find_package(OpenCV CONFIG REQUIRED)
+  # note: 12 additional targets are not displayed.
+  target_link_libraries(main PRIVATE opencv_ml opencv_dnn opencv_core opencv_flann)
+
+socket-io-client provides CMake targets:
+
+  # this is heuristically generated, and may not be correct
+  find_package(sioclient CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE sioclient::sioclient sioclient::sioclient_tls)
+

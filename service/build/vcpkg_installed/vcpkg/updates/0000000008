@@ -1,0 +1,8 @@
+Package: boost-config
+Version: 1.84.0
+Depends: boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 5f880ff132dc9bb8568898be0ce41952c7729fcbcbb986a9bd6b654f19b7c40c
+Description: Boost config module
+Status: install ok half-installed

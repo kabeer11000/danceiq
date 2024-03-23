@@ -1,0 +1,8 @@
+Package: boost-static-assert
+Version: 1.84.0
+Depends: boost-config, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 6a6dc0aa78516dfb989884036387b091f300eb29e5ee315f5eece1a605928ee0
+Description: Boost static_assert module
+Status: install ok half-installed

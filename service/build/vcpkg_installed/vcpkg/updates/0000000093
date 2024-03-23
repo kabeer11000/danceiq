@@ -1,0 +1,8 @@
+Package: boost-unordered
+Version: 1.84.0
+Depends: boost-assert, boost-config, boost-container-hash, boost-core, boost-mp11, boost-predef, boost-throw-exception, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 7dae91901a33140029587a05f206d31bf5eb993cfbfe7d1f68717272aca79213
+Description: Boost unordered module
+Status: install ok installed

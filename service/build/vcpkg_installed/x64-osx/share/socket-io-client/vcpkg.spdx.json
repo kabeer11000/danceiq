@@ -1,0 +1,132 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/socket-io-client-x64-osx-2023-11-11-6901f8f4-3e21-4782-987c-ce2b9d3e061f",
+  "name": "socket-io-client:x64-osx@2023-11-11 b109b0b2baf6036badff1367b0d58d3c971ffe1f8cf1f162a3727deefa5fc146",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-2024.03.14"
+    ],
+    "created": "2024-03-23T11:53:41Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "socket-io-client",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "2023-11-11",
+      "downloadLocation": "git+https://github.com/Microsoft/vcpkg#ports/socket-io-client",
+      "homepage": "https://github.com/socketio/socket.io-client-cpp",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "C++11 implementation of Socket.IO client",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "socket-io-client:x64-osx",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "b109b0b2baf6036badff1367b0d58d3c971ffe1f8cf1f162a3727deefa5fc146",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "MIT",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "socketio/socket.io-client-cpp",
+      "downloadLocation": "git+https://github.com/socketio/socket.io-client-cpp@0dc2f7afea17a0e5bfb5e9b1e6d6f26ab1455cef",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "583cc0c6e392243203e4d10163a1cb5a404497472e684dfbeef7ca9634784a1fe4717f926858eea98aa0ac4356fb503abfbbeb58fcb1dd839c917e9f6ee104b1"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": ".//Users/asadrizvi/vcpkg/ports/socket-io-client/fix-build.patch",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "fc19c4b8761c576a0e67286c53f89bc055b294c21d40030b42c2c78d43611987"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".//Users/asadrizvi/vcpkg/ports/socket-io-client/portfile.cmake",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8e51e8c69efff34ec9a728b4b243e23b6b21d1e1a58dd839725d8200c1a24b9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": ".//Users/asadrizvi/vcpkg/ports/socket-io-client/vcpkg.json",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "13efb17a012da6bf82964b19c151340f465db53c9f34bc4e8bc288b0cc43497a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

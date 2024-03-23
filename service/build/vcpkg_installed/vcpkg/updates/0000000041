@@ -1,0 +1,8 @@
+Package: boost-move
+Version: 1.84.0
+Depends: boost-config, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 179e17c4ee10b41d7c4a1420ee7746e60233598dd682697d2f19ae3004d6736a
+Description: Boost move module
+Status: install ok installed

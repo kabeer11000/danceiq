@@ -1,0 +1,8 @@
+Package: boost-align
+Version: 1.84.0
+Depends: boost-assert, boost-config, boost-core, boost-static-assert, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 52ed33c45c19ac3c3be905b085203bb709e5f198c00428c46d1173b77bc1e6ed
+Description: Boost align module
+Status: install ok installed

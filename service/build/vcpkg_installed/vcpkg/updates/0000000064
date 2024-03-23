@@ -1,0 +1,8 @@
+Package: boost-container-hash
+Version: 1.84.0
+Depends: boost-config, boost-describe, boost-mp11, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: de33f51a6ca11de8deab4a791b2df4e3d7c48c45755535ca0fc96294a05b59a7
+Description: Boost container_hash module
+Status: install ok half-installed

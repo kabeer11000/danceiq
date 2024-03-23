@@ -1,0 +1,8 @@
+Package: boost-array
+Version: 1.84.0
+Depends: boost-assert, boost-config, boost-core, boost-static-assert, boost-throw-exception, boost-vcpkg-helpers
+Architecture: x64-osx
+Multi-Arch: same
+Abi: 1c64e8f42e825c45ac56b42ef712e0cb5675fea3542e3c64a3f01ca2049ea7ec
+Description: Boost array module
+Status: install ok half-installed

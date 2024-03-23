@@ -1,8 +1,0 @@
-Package: boost-asio
-Version: 1.84.0
-Depends: boost-align, boost-assert, boost-config, boost-context, boost-coroutine, boost-date-time, boost-system, boost-throw-exception, boost-vcpkg-helpers
-Architecture: x64-osx
-Multi-Arch: same
-Abi: 752ae6d2bc80963ff3e2e98bb0dc7d14e275e12bb2f3fcad0c309b5d48785a10
-Description: Boost asio module
-Status: install ok half-installed

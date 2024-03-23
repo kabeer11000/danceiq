@@ -4,10 +4,12 @@ project(danceiq)
 # Add your source files
 add_executable(danceiq source/index.cpp)
 
+include_directories(danceiq source/thirdparty)
 
 find_package(fmt CONFIG REQUIRED)
 
 
+target_include_directories(danceiq PRIVATE source/thirdparty)
 target_link_libraries(danceiq PRIVATE fmt::fmt)
 
 

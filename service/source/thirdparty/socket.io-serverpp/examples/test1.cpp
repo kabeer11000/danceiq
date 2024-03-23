@@ -1,18 +1,21 @@
 #include <iostream>
+
 #define _SOCKETIO_SERVERPP_CPP11_STL_ 1
-#include <thirdparty/socket.io-serverpp/socket.io-serverpp/Server.hpp>
+
+#include <socket.io-serverpp/Server.hpp>
 
 using namespace std;
 
-int main() {
+int main()
+{
     boost::asio::io_service io_service;
 
     socketio_serverpp::Server io(io_service);
-
+    
     unlink("/tmp/dorascgi");
     io.listen("/tmp/dorascgi", 9001);
 
-    // io.sockets.on("connection", [](socketio-serverpp::socket socket)
+    //io.sockets.on("connection", [](socketio-serverpp::socket socket)
 #if 0
     io.sockets().on("connection", [](socketio-serverpp::socket socket)
     {
@@ -25,9 +28,10 @@ int main() {
 #endif
 
     auto chat = io.of("/chat");
-    chat->onConnection([&](socketio_serverpp::Socket &socket) {
-        socket.on("my event", [](const socketio_serverpp::Event &event) {
-            cout << "reicevd '" << event.name() << "' with " << event.data() << endl;
+    chat->onConnection([&](socketio_serverpp::Socket& socket)
+    {
+        socket.on("my event", [](const socketio_serverpp::Event& event) {
+            cout << "reicevd '" <<  event.name() << "' with " << event.data() << endl;
         });
 
         cout << "a socket with namespace /chat connected" << endl;
@@ -35,6 +39,7 @@ int main() {
         socket.emit("a message", "only socket will get");
         chat->emit("a message", "all in /chat will get");
     });
+
 
     io_service.run();
 }

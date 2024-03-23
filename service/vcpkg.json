@@ -2,6 +2,7 @@
   "dependencies": [
     "fmt",
     "opencv",
-    "socket-io-client"
+    "socket-io-client",
+    "websocketpp"
   ]
 }

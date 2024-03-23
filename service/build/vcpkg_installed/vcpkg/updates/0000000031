@@ -1,8 +1,0 @@
-Package: boost-type-traits
-Version: 1.84.0
-Depends: boost-config, boost-static-assert, boost-vcpkg-helpers
-Architecture: x64-osx
-Multi-Arch: same
-Abi: cc2c3e81bb4d03d1444f5d5514003d8c68510490299b5301f4188f03f7b912e5
-Description: Boost type_traits module
-Status: install ok installed

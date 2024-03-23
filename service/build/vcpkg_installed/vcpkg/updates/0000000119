@@ -1,8 +1,0 @@
-Package: socket-io-client
-Version: 2023-11-11
-Depends: asio, rapidjson, vcpkg-cmake, vcpkg-cmake-config, websocketpp
-Architecture: x64-osx
-Multi-Arch: same
-Abi: b109b0b2baf6036badff1367b0d58d3c971ffe1f8cf1f162a3727deefa5fc146
-Description: C++11 implementation of Socket.IO client
-Status: install ok installed

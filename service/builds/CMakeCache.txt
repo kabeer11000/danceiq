@@ -271,6 +271,9 @@ danceiq_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 danceiq_SOURCE_DIR:STATIC=/Users/asadrizvi/Documents/assignments/danceiq/service
 
+//The directory containing a CMake configuration file for fmt.
+fmt_DIR:PATH=/usr/local/lib/cmake/fmt
+
 
 ########################
 # INTERNAL cache entries

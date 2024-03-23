@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/asadrizvi/Documents/assignments/danceiq/service/source/index.cpp" "CMakeFiles/DanceIQ.dir/source/index.cpp.o" "gcc" "CMakeFiles/DanceIQ.dir/source/index.cpp.o.d"
+  "/Users/asadrizvi/Documents/assignments/danceiq/service/source/index.cpp" "CMakeFiles/danceiq.dir/source/index.cpp.o" "gcc" "CMakeFiles/danceiq.dir/source/index.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

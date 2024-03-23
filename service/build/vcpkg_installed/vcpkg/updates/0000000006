@@ -1,8 +1,0 @@
-Package: boost-vcpkg-helpers
-Version: 1.84.0
-Depends: boost-uninstall
-Architecture: x64-osx
-Multi-Arch: same
-Abi: fd9f62ac3f1d352cbcaeb8510f3a40cf0ed0c567dc350fbf46c6f98851587252
-Description: Internal vcpkg port used to modularize Boost
-Status: install ok half-installed

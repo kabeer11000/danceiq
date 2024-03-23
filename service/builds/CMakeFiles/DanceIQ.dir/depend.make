@@ -1,2 +1,2 @@
-# Empty dependencies file for DanceIQ.
+# Empty dependencies file for danceiq.
 # This may be replaced when dependencies are built.

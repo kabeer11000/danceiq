@@ -34,6 +34,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/Cellar/cmake/3.27.4/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
   "/usr/local/Cellar/cmake/3.27.4/share/cmake/Modules/Platform/Darwin.cmake"
   "/usr/local/Cellar/cmake/3.27.4/share/cmake/Modules/Platform/UnixPaths.cmake"
+  "/usr/local/lib/cmake/fmt/fmt-config-version.cmake"
+  "/usr/local/lib/cmake/fmt/fmt-config.cmake"
+  "/usr/local/lib/cmake/fmt/fmt-targets-release.cmake"
+  "/usr/local/lib/cmake/fmt/fmt-targets.cmake"
   )
 
 # The corresponding makefile is:
@@ -49,5 +53,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/DanceIQ.dir/DependInfo.cmake"
+  "CMakeFiles/danceiq.dir/DependInfo.cmake"
   )

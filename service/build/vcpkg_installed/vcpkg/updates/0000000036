@@ -1,8 +1,0 @@
-Package: boost-core
-Version: 1.84.0
-Depends: boost-assert, boost-config, boost-static-assert, boost-throw-exception, boost-vcpkg-helpers
-Architecture: x64-osx
-Multi-Arch: same
-Abi: 18f984211bb9a8cf3fce1cd5c9efe96d80059a9413f37f5ecbec3d25d96e7d61
-Description: Boost core module
-Status: install ok half-installed

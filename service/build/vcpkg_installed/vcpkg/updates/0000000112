@@ -1,9 +1,0 @@
-Package: websocketpp
-Version: 0.8.2
-Port-Version: 3
-Architecture: x64-osx
-Multi-Arch: same
-Abi: c20e96afe322941df9f3f09d2b737026a282839b58ea90066ae3c27e14b121ab
-Description: Library that implements RFC6455 The WebSocket Protocol
-Default-Features: recommended
-Status: install ok installed

@@ -117,24 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named DanceIQ
+# Target rules for targets named danceiq
 
 # Build rule for target.
-DanceIQ: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 DanceIQ
-.PHONY : DanceIQ
+danceiq: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 danceiq
+.PHONY : danceiq
 
 # fast build rule for target.
-DanceIQ/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DanceIQ.dir/build.make CMakeFiles/DanceIQ.dir/build
-.PHONY : DanceIQ/fast
+danceiq/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/danceiq.dir/build.make CMakeFiles/danceiq.dir/build
+.PHONY : danceiq/fast
 
 source/index.o: source/index.cpp.o
 .PHONY : source/index.o
 
 # target to build an object file
 source/index.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DanceIQ.dir/build.make CMakeFiles/DanceIQ.dir/source/index.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/danceiq.dir/build.make CMakeFiles/danceiq.dir/source/index.cpp.o
 .PHONY : source/index.cpp.o
 
 source/index.i: source/index.cpp.i
@@ -142,7 +142,7 @@ source/index.i: source/index.cpp.i
 
 # target to preprocess a source file
 source/index.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DanceIQ.dir/build.make CMakeFiles/DanceIQ.dir/source/index.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/danceiq.dir/build.make CMakeFiles/danceiq.dir/source/index.cpp.i
 .PHONY : source/index.cpp.i
 
 source/index.s: source/index.cpp.s
@@ -150,7 +150,7 @@ source/index.s: source/index.cpp.s
 
 # target to generate assembly for a file
 source/index.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DanceIQ.dir/build.make CMakeFiles/DanceIQ.dir/source/index.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/danceiq.dir/build.make CMakeFiles/danceiq.dir/source/index.cpp.s
 .PHONY : source/index.cpp.s
 
 # Help Target
@@ -161,7 +161,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... DanceIQ"
+	@echo "... danceiq"
 	@echo "... source/index.o"
 	@echo "... source/index.i"
 	@echo "... source/index.s"

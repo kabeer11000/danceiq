@@ -1,8 +1,0 @@
-Package: boost-build
-Version: 1.84.0
-Depends: boost-uninstall
-Architecture: x64-osx
-Multi-Arch: same
-Abi: 4ddf64b41c7d95f3f7a3217daee588b3a0de1c0254655b3de90834bd2bb2a5c8
-Description: Boost.Build
-Status: install ok installed

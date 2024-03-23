@@ -1,7 +1,0 @@
-Package: websocketpp
-Feature: recommended
-Depends: boost-asio, openssl, zlib
-Architecture: x64-osx
-Multi-Arch: same
-Description: Use recommended dependencies
-Status: install ok installed

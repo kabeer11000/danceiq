@@ -1,0 +1,5 @@
+class SocketServ {
+    public: 
+    SocketServ() {}
+    
+};

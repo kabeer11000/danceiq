@@ -55,7 +55,7 @@ export default function CustomApp({ Component, pageProps, data }: AppProps & App
         },
       },
       MuiChip: {
-        styleOverrides: {
+        _styleOverrides: {
           root: ({ theme }) =>
             theme.unstable_sx({
               px: 1,

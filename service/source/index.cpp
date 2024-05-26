@@ -1,6 +1,6 @@
 #include <iostream>
 #define _SOCKETIO_SERVERPP_CPP11_STL_ 1
-#include <thirdparty/socket.io-serverpp/socket.io-serverpp/Server.hpp>
+#include "thirdparty/socket.io-serverpp/socket.io-serverpp/Server.hpp"
 
 using namespace std;
 
@@ -14,8 +14,7 @@ int main() {
 
     // io.sockets.on("connection", [](socketio-serverpp::socket socket)
 #if 0
-    io.sockets().on("connection", [](socketio-serverpp::socket socket)
-    {
+    io.sockets().on("connection", [](socketio-serverpp::socket socket) {
         socket.emit('my event', 'some data');
     0   socket.on('other event', [](const string& data)
         {

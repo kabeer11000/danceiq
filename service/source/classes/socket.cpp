@@ -1,5 +1,0 @@
-class SocketServ {
-    public: 
-    SocketServ() {}
-    
-};

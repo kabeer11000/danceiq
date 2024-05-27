@@ -1,3 +1,0 @@
-# danceiq
-
-C++ executable

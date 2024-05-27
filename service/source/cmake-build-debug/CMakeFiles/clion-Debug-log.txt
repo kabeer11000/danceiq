@@ -1,0 +1,6 @@
+"/Users/asadrizvi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/241.15989.121/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/asadrizvi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/241.15989.121/CLion.app/Contents/bin/ninja/mac/x64/ninja" -DCMAKE_TOOLCHAIN_FILE=/Users/asadrizvi/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /Users/asadrizvi/Documents/assignments/danceiq/service/source -B /Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug
+-- Found Boost: /Users/asadrizvi/.vcpkg-clion/vcpkg/installed/x64-osx/share/boost/BoostConfig.cmake (found version "1.85.0") found components: system filesystem thread 
+-- Found Boost: /Users/asadrizvi/.vcpkg-clion/vcpkg/installed/x64-osx/share/boost/BoostConfig.cmake (found suitable version "1.85.0", minimum required is "1.58.0") found components: system 
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug

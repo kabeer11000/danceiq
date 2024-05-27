@@ -1,8 +1,0 @@
-{
-  "dependencies": [
-    "fmt",
-    "opencv",
-    "socket-io-client",
-    "websocketpp"
-  ]
-}

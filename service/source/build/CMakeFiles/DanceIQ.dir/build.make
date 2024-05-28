@@ -83,14 +83,62 @@ CMakeFiles/DanceIQ.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DanceIQ.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/asadrizvi/Documents/assignments/danceiq/service/source/main.cpp -o CMakeFiles/DanceIQ.dir/main.cpp.s
 
+CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o: CMakeFiles/DanceIQ.dir/flags.make
+CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o: /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/bounded_vector.cpp
+CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o: CMakeFiles/DanceIQ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o -MF CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o.d -o CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o -c /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/bounded_vector.cpp
+
+CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/bounded_vector.cpp > CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.i
+
+CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/bounded_vector.cpp -o CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.s
+
+CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o: CMakeFiles/DanceIQ.dir/flags.make
+CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o: /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/socket_handlers.cpp
+CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o: CMakeFiles/DanceIQ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o -MF CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o.d -o CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o -c /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/socket_handlers.cpp
+
+CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/socket_handlers.cpp > CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.i
+
+CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/socket_handlers.cpp -o CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.s
+
+CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o: CMakeFiles/DanceIQ.dir/flags.make
+CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o: /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/tf_utils.cpp
+CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o: CMakeFiles/DanceIQ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o -MF CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o.d -o CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o -c /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/tf_utils.cpp
+
+CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/tf_utils.cpp > CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.i
+
+CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/tf_utils.cpp -o CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.s
+
 # Object files for target DanceIQ
 DanceIQ_OBJECTS = \
-"CMakeFiles/DanceIQ.dir/main.cpp.o"
+"CMakeFiles/DanceIQ.dir/main.cpp.o" \
+"CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o" \
+"CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o" \
+"CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o"
 
 # External object files for target DanceIQ
 DanceIQ_EXTERNAL_OBJECTS =
 
 DanceIQ: CMakeFiles/DanceIQ.dir/main.cpp.o
+DanceIQ: CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o
+DanceIQ: CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o
+DanceIQ: CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o
 DanceIQ: CMakeFiles/DanceIQ.dir/build.make
 DanceIQ: /usr/local/opt/openssl/lib/libssl.dylib
 DanceIQ: /usr/local/opt/openssl/lib/libcrypto.dylib
@@ -154,7 +202,7 @@ DanceIQ: /usr/local/lib/libopencv_photo.4.9.0.dylib
 DanceIQ: /usr/local/lib/libopencv_imgproc.4.9.0.dylib
 DanceIQ: /usr/local/lib/libopencv_core.4.9.0.dylib
 DanceIQ: CMakeFiles/DanceIQ.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable DanceIQ"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable DanceIQ"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DanceIQ.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -39,8 +39,7 @@ const WelcomeDialog: FC<WelcomeDialogProps> = ({ open: defaultOpen }: { open?: b
         </DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
-            Let Google help apps determine location. This means sending anonymous
-            location data to Google, even when no apps are running.
+            Select from various pre-computed dances and start training
           </DialogContentText>
         </DialogContent>
         <DialogActions>

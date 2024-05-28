@@ -15,6 +15,7 @@ export default function Document(props: any) {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
         />
+        {process.env.NODE_ENV === "development" && <script async defer src="//console.re/connector.js" data-channel="danceiq" id="consolerescript"></script>}
       </Head>
       <body>
         <Main />

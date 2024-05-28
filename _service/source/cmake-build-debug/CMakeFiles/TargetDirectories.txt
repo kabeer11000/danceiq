@@ -1,3 +1,0 @@
-/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/CMakeFiles/DanceIQ.dir
-/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/CMakeFiles/rebuild_cache.dir

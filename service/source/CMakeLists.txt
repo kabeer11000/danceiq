@@ -13,6 +13,11 @@ find_package(Threads)
 # lib has 1 file: libtensorflowlite.dylib
 add_library(tensorflowlite SHARED IMPORTED)
 
+include(FetchContent)
+
+FetchContent_Declare(json URL https://github.com/nlohmann/json/releases/download/v3.11.3/json.tar.xz)
+FetchContent_MakeAvailable(json)
+
 if (APPLE)
     SET(OPENSSL_ROOT_DIR /usr/local/opt/openssl/)
     set_property(TARGET tensorflowlite PROPERTY IMPORTED_LOCATION ${CMAKE_CURRENT_SOURCE_DIR}/deps/tflite-dist/libs/mac/libtensorflowlite.dylib)
@@ -22,8 +27,14 @@ if (WIN32)
 endif (WIN32)
 find_package(OpenSSL)
 include_directories(${Boost_INCLUDE_DIRS} ${OPENSSL_INCLUDE_DIR} ${CMAKE_CURRENT_SOURCE_DIR}/deps/tflite-dist/include/ ${CMAKE_CURRENT_SOURCE_DIR}/deps/websocketpp/)
-add_executable(DanceIQ main.cpp)
-target_link_libraries(DanceIQ ${OPENSSL_LIBRARIES} ${OpenCV_LIBS} ${Boost_LIBRARIES} gflags glog::glog tensorflowlite)
+file(GLOB DanceIQSrcs CONFIGURE_DEPENDS "includes/*.h" "includes/*.cpp")
+add_executable(DanceIQ main.cpp ${DanceIQSrcs}
+        includes/socket_handlers.cpp
+        includes/socket_handlers.h
+        includes/bounded_vector.cpp
+        includes/bounded_vector.h
+        includes/utils.h)
+target_link_libraries(DanceIQ ${OPENSSL_LIBRARIES} ${OpenCV_LIBS} ${Boost_LIBRARIES} gflags glog::glog tensorflowlite nlohmann_json::nlohmann_json)
 
 
 #cmake_minimum_required(VERSION 3.28)

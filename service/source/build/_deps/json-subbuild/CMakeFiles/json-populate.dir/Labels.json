@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/CMakeFiles/json-populate"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/CMakeFiles/json-populate.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule"
+		},
+		{
+			"file" : "/Users/asadrizvi/Documents/assignments/danceiq/service/source/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json-populate"
+		],
+		"name" : "json-populate"
+	}
+}

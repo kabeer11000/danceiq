@@ -1,0 +1,23 @@
+# ninja log v5
+5231	5284	1716855120775956439	json-populate-prefix/src/json-populate-stamp/json-populate-patch	705e2bdb8c2c182f
+5284	5337	1716855120829725588	json-populate-prefix/src/json-populate-stamp/json-populate-configure	552eba8f4518271a
+60	5177	1716855120669475656	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json.tar.xz	e65e66a233166b52
+1	60	1716855115551627269	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	70adffc9ee61320a
+5499	5590	1716855121081072268	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	2a7b318f70c09b81
+5499	5590	1716855121081072268	CMakeFiles/json-populate-complete	2a7b318f70c09b81
+5392	5445	1716855120937207778	json-populate-prefix/src/json-populate-stamp/json-populate-install	cd4a654d82f8cee8
+60	5177	1716855120669475656	json-populate-prefix/src/json-populate-stamp/json-populate-download	e65e66a233166b52
+5231	5284	1716855120775956439	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	705e2bdb8c2c182f
+1	60	1716855115551627269	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	70adffc9ee61320a
+60	5177	1716855120669475656	json-populate-prefix/src/json.tar.xz	e65e66a233166b52
+60	5177	1716855120669475656	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	e65e66a233166b52
+5445	5499	1716855120991141674	json-populate-prefix/src/json-populate-stamp/json-populate-test	32e7fd34d91a1f9d
+5177	5231	1716855120722610333	json-populate-prefix/src/json-populate-stamp/json-populate-update	b34a1e619cff14e2
+5445	5499	1716855120991141674	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	32e7fd34d91a1f9d
+5284	5337	1716855120829725588	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	552eba8f4518271a
+5338	5392	1716855120884611277	json-populate-prefix/src/json-populate-stamp/json-populate-build	c1f4c013771dfbf1
+5177	5231	1716855120722610333	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	b34a1e619cff14e2
+5392	5445	1716855120937207778	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	cd4a654d82f8cee8
+5338	5392	1716855120884611277	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	c1f4c013771dfbf1
+5499	5590	1716855121081072268	json-populate-prefix/src/json-populate-stamp/json-populate-done	2a7b318f70c09b81
+5499	5590	1716855121081072268	/Users/asadrizvi/Documents/assignments/danceiq/service/source/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	2a7b318f70c09b81

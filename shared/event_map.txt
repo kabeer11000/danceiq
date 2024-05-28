@@ -1,0 +1,13 @@
+> means upstream, (server is on reciving end)
+< means downstream, (client is no the reciving end)
+event name will always be message, just if/else/switch based on `__type` prop, that will equal to event names given below
+like for get-remote-info the actual event will be called `message` but will contain an object with a key called __type: "get-remote-info"
+
+Event Name (Exact) | IO (JSON)
+> get-remote-info | {}
+< get-remote-info-response | {version: string(version like 1.0.0), model: strinig(model_name, add sample-model currently)} // getting remote server info, to validate connection
+> get-library | {}
+< get-library-response | Array{id: string(any-int/casted_int/string), poster: string(leave sample-poster.png), title: string} // dances library for homepage
+> async-frame-data | binary(image/jpeg served as binary) // make an empty handler, // server will take current time reading for itself.
+< async-frame-data-response | {correct: boolean, skeleton: Array{...coordinates (refer to the sample type file)}, initial: boolean} // sends back coordinates, have skeleton property = empty array, currently
+

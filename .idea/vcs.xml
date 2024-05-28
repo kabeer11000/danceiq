@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Webcam-Pose-Estimation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_service/source/openpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_service/source/openpose/3rdparty/caffe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service/source/deps/websocketpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service/source/tflite" vcs="Git" />
+  </component>
+</project>

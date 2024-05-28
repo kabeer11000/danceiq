@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/bounded_vector.cpp" "CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o" "gcc" "CMakeFiles/DanceIQ.dir/includes/bounded_vector.cpp.o.d"
+  "/Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/socket_handlers.cpp" "CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o" "gcc" "CMakeFiles/DanceIQ.dir/includes/socket_handlers.cpp.o.d"
+  "/Users/asadrizvi/Documents/assignments/danceiq/service/source/includes/tf_utils.cpp" "CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o" "gcc" "CMakeFiles/DanceIQ.dir/includes/tf_utils.cpp.o.d"
   "/Users/asadrizvi/Documents/assignments/danceiq/service/source/main.cpp" "CMakeFiles/DanceIQ.dir/main.cpp.o" "gcc" "CMakeFiles/DanceIQ.dir/main.cpp.o.d"
   )
 
